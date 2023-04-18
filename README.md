@@ -26,4 +26,10 @@ Things you may want to cover:
 
 # **STEPS TO COMPLETE THE PROJECT**
 
+1. Push your code to the GitHub.
+
+Download the PaaS_Code provided by professor.
+- **Create a new repository called PaaS_Project on GitHub.**
+
+
 
