@@ -24,6 +24,6 @@ Things you may want to cover:
 * ...
 
 
-**STEPS TO COMPLETE THE PROJECT**
+# **STEPS TO COMPLETE THE PROJECT**
 
 
