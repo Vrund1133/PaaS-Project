@@ -80,13 +80,13 @@ Things you may want to cover:
 
 - There is More button beside of Open app, click on that then open console.
 - In the console run the following commands to configure your app.
-    buldle install
+    >buldle install
 - Then run the following command to open the rails server.
-    rails server
+    >rails server
 - Then run the following command to migrate the database.
-    rails db:migrate
+    >rails db:migrate
 - Lastly, run the following command to seed the database.
-    rails db:seed
+    >rails db:seed
 - Now your application has data in it.
 
 **7. Open your seeded application.**
